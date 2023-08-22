@@ -1,0 +1,7 @@
+1. Nomer terminal akan disimpan dalam file "ConfigTerminal.xml" yang akan diletakkan dalam LocalDisk(C:)
+Nomer terminal akan digunakan dalam pembuatan kode nota
+
+2. Setting database nya terletak dalam file .env pada folder Test
+Folder Test merupakan file laravel POS nya
+
+3. Print nota nya masih menggunakan printer biasa

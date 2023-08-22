@@ -1,0 +1,1 @@
+URL akses = http://localhost/kppos/Test/public/
